@@ -19636,7 +19636,7 @@
 	              null,
 	              'Last Name: '
 	            ),
-	            _react2.default.createElement('input', { className: 'form-control', type: 'text', name: 'lasttName', placeholder: 'Last Name', value: this.state.lasttName })
+	            _react2.default.createElement('input', { className: 'form-control', type: 'text', name: 'lastName', placeholder: 'Last Name', value: this.state.lasttName })
 	          ),
 	          _react2.default.createElement(
 	            'div',
