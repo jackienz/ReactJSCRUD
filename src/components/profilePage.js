@@ -78,7 +78,7 @@ export default class ProfilePage extends Component{
 
         <div className="form-group">
            <label>Last Name: </label>
-           <input className="form-control" type="text" name="lasttName" placeholder="Last Name" value={this.state.lasttName} />
+           <input className="form-control" type="text" name="lastName" placeholder="Last Name" value={this.state.lasttName} />
         </div> 
         <div className="form-group">
             <select className="form-control" value={this.state.gender} name="gender"> 
