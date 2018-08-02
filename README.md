@@ -11,5 +11,5 @@ Checkout this repo, install dependencies, then start the apps with the following
 
 > Navigate to http://localhost:8080/
 ```
-Demo
+Demo</br>
 https://jackienz.github.io/ReactJSCRUD/
